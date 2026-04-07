@@ -88,15 +88,3 @@
 <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40"/>
 </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mokshgupta777&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokshgupta777&layout=compact" />
-</p>
