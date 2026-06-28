@@ -23,8 +23,6 @@
 ## 🔥 Featured Project
 
 ### 👉 Playwright Clean Architecture Framework
-[![CI](https://github.com/MokshGupta777/playwright-clean-architecture-framework/actions/workflows/YOUR_WORKFLOW_FILE.yml/badge.svg)](https://github.com/MokshGupta777/playwright-clean-architecture-framework/actions)
-
 🔗 https://github.com/MokshGupta777/playwright-clean-architecture-framework
 
 - Built scalable automation framework using:
