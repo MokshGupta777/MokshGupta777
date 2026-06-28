@@ -4,17 +4,15 @@
 ---
 
 ## 🚀 About Me
-
-- 💼 SDET / Automation Engineer with **1.5+ years of experience**
+- 💼 SDET / QA Automation Engineer with **1.8+ years of experience**
 - ⚡ Specialized in **building scalable automation frameworks (Cypress & Playwright)**
-- 🔁 Experienced in **CI/CD-integrated testing (Jenkins, GitHub Actions)**
-- 🧪 Strong in **E2E, API testing, and backend validation**
-- 📍 Based in Delhi, India
+- 🔁 Experienced in **CI/CD-integrated testing (Jenkins, GitHub Actions, GitLab CI)**
+- 🧪 Strong in **E2E, API, and regression testing for enterprise ERP systems**
+- 📍 Based in Delhi NCR, India
 
 ---
 
 ## 🏗️ Current Work
-
 - 🧪 Building **Playwright + TypeScript automation framework (Clean Architecture)**
 - 🔁 Migrating from **Cypress (JS) → Playwright (TS)**
 - 📊 Implementing **Allure & Playwright reporting**
@@ -25,6 +23,8 @@
 ## 🔥 Featured Project
 
 ### 👉 Playwright Clean Architecture Framework
+[![CI](https://github.com/MokshGupta777/playwright-clean-architecture-framework/actions/workflows/YOUR_WORKFLOW_FILE.yml/badge.svg)](https://github.com/MokshGupta777/playwright-clean-architecture-framework/actions)
+
 🔗 https://github.com/MokshGupta777/playwright-clean-architecture-framework
 
 - Built scalable automation framework using:
@@ -36,6 +36,8 @@
 - Added **Allure + Playwright reporting**
 - Supports **environment-based configuration**
 
+<!-- TODO: paste one short Page Object or test snippet here, plus a screenshot of the Allure/HTML report -->
+
 ---
 
 ## 🛠️ Tech Stack
@@ -43,7 +45,7 @@
 ### 🔹 Automation & Testing
 - Playwright (TypeScript)
 - Cypress (JavaScript)
-- E2E Testing, Regression Strategy
+- E2E, Functional, Regression & API Testing
 - Page Object Model (POM)
 - API Testing (Postman)
 
@@ -51,11 +53,11 @@
 - GitHub Actions
 - Jenkins
 - GitLab CI
-- Parallel Execution
+- Docker-based Parallel Execution
 - Headless Testing
 
 ### 🔹 Backend & Validation
-- SQL Validation
+- SQL / MySQL Validation
 - REST APIs
 - Data Integrity Testing
 
@@ -68,18 +70,15 @@
 ---
 
 ## 📈 Achievements
-
-- 🚀 Automated **1000+ test cases**
-- 📊 Increased automation coverage to **80%+**
-- ⏱️ Reduced regression time by **40%**
-- 🐞 Reduced production defects by **~25%**
-
-📄 Based on my professional experience: :contentReference[oaicite:0]{index=0}
+- 🚀 Automated **1,000+ business-critical workflows**
+- 📊 Scaled automation coverage from **20% → 85%+**
+- ⏱️ Reduced regression execution time by **89%** (9h → 1h)
+- 🐞 Reduced flaky test failures by **40%**
+- ✅ Validated **50+ REST APIs** through hybrid UI + API automation
 
 ---
 
 ## 📫 Connect with Me
-
 <p align="left">
 <a href="https://linkedin.com/in/mokshgupta22" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
